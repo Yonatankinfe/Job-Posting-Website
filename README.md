@@ -1,4 +1,26 @@
-# Job-Posting
+# Job Posting Website - CodeIgniter & Bootstrap
+
+A comprehensive job posting platform built with CodeIgniter 4 PHP framework, MySQL database, and Bootstrap 5 for responsive design.
+
+## Features
+
+For Job Seekers
+
++ User Registration & Authentication: Secure account creation and login system
+
++ Job Search & Filtering: Advanced search with filters by category, location, job type, and keywords
+
++ Job Applications: Apply for jobs with cover letters and resume uploads
+
++ Application Tracking: View application status and history
+
++ User Dashboard: Personalized dashboard with application statistics
+
++ Profile Management: Update personal information and change passwords
+
+
+
+
 
 # Images
 ![Image](https://github.com/user-attachments/assets/c1ff3ffb-eafe-4884-8398-38e4ca888120)
