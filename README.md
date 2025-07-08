@@ -51,7 +51,8 @@ A modern job posting platform built with CodeIgniter 4 and Bootstrap 5, connecti
    git clone https://github.com/Yonatankinfe/Job-Posting-Website.git
    ```
 
-
+> 🚧 **Currently Under Development**  
+> The full codebase will be available soon!
 
 
 # Images
