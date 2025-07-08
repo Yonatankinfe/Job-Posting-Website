@@ -4,7 +4,7 @@ A comprehensive job posting platform built with CodeIgniter 4 PHP framework, MyS
 
 ## Features
 
-For Job Seekers
+### For Job Seekers
 
 + User Registration & Authentication: Secure account creation and login system
 
@@ -18,6 +18,18 @@ For Job Seekers
 
 + Profile Management: Update personal information and change passwords
 
+
+### For Employers
+
++ Company Registration & Authentication: Separate registration system for employers
+
++ Job Posting Management: Create, edit, delete, and manage job postings
+
++ Application Management: View and manage job applications with status updates
+
++ Company Dashboard: Analytics and statistics for posted jobs
+
++ Company Profile: Manage company information and branding
 
 
 
