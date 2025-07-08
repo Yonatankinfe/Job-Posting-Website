@@ -46,6 +46,21 @@ A comprehensive job posting platform built with CodeIgniter 4 PHP framework, MyS
 
 + Security: Password hashing, CSRF protection, and input validation
 
+### Technology Stack
+
+
++ Backend: CodeIgniter 4 (PHP 8.1)
+
++ Database: MySQL 8.0
+
++ Frontend: Bootstrap 5, HTML5, CSS3, JavaScript
+
++ Web Server: Apache 2.4
+
++ Icons: Font Awesome 6
+
++ Styling: Custom CSS with CSS variables and modern design principles
+
 
 
 
