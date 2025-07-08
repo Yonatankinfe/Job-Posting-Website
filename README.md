@@ -31,6 +31,21 @@ A comprehensive job posting platform built with CodeIgniter 4 PHP framework, MyS
 
 + Company Profile: Manage company information and branding
 
+### General Features
+
+
++ Responsive Design: Mobile-friendly interface using Bootstrap 5
+
++ Modern UI/UX: Professional design with smooth animations and transitions
+
++ Category Management: Organized job categories (Technology, Marketing, Sales, etc.)
+
++ Job Statistics: View counts and application metrics
+
++ Search Functionality: Powerful search with multiple filter options
+
++ Security: Password hashing, CSRF protection, and input validation
+
 
 
 
