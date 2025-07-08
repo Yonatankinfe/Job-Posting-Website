@@ -1,4 +1,4 @@
-# Job Posting Website 🚀
+# Job Posting Website 💼
 
 A modern job posting platform built with CodeIgniter 4 and Bootstrap 5, connecting employers with top talent.
 
